@@ -121,7 +121,7 @@ const Gallery = () => {
     <Container maxWidth="lg" sx={{ py: 4 }}>
       <Typography variant="h3" component="h1" gutterBottom align="center" sx={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 2 }}>
         <PetsIcon fontSize="large" />
-        Pet Gallery
+        Thư Viện Thú Cưng
       </Typography>
       <Typography variant="h6" color="text.secondary" paragraph align="center">
       Khám phá người bạn đồng hành lý tưởng cho phong cách sống của bạn

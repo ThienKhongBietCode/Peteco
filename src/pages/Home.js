@@ -100,7 +100,7 @@ const Home = () => {
               size="large"
               onClick={() => navigate('/services')}
             >
-              Explore Project
+              Tìm Hiểu Thêm
             </Button>
           </Box>
         </Container>
@@ -113,7 +113,7 @@ const Home = () => {
           gutterBottom
           align="center"
         >
-          Our Services
+          Các Chức Năng
         </Typography>
         <Grid container spacing={3}>
           {features.map((feature, index) => (

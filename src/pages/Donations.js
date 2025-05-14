@@ -77,7 +77,7 @@ const AboutUs = () => {
   return (
     <Container maxWidth="lg" sx={{ py: 4 }}>
       <Typography variant="h3" component="h1" gutterBottom align="center">
-        Meet Our Team
+        Đội Ngũ Của Chúng Tôi
       </Typography>
       <Typography variant="h6" color="text.secondary" paragraph align="center">
       Đội ngũ chuyên gia tận tâm cam kết mang đến sự chăm sóc tốt nhất cho thú cưng của bạn
