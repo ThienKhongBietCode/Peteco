@@ -136,7 +136,7 @@ const AboutUs = () => {
 
       <Box sx={{ mt: 6, textAlign: 'center' }}>
         <Typography variant="h5" gutterBottom>
-          Our Mission
+          Sứ mệnh của chúng tôi
         </Typography>
         <Typography variant="body1" paragraph>
         Chúng tôi cam kết cung cấp dịch vụ chăm sóc xuất sắc cho thú cưng và hỗ trợ chủ nuôi với những lời khuyên chuyên môn.
